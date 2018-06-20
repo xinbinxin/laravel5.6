@@ -1,6 +1,6 @@
 {
     "name": "xinbinxin/laravel5.6",
-    "description": "The Laravel Framework.",
+    "description": "~~支持更新,安装了代码提示路由提示Help助手函数等",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
