@@ -3,7 +3,6 @@
     "description": "~~支持更新,安装了代码提示路由提示Help助手函数等",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
-    "type": "project",
     "require": {
         "php": ">=7.0.0",
         "barryvdh/laravel-ide-helper": "^2.4",
@@ -58,5 +57,11 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "optimize-autoloader": true
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
